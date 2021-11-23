@@ -29,7 +29,7 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## Roadmap
-My goal for this project is to continue learning how to use Formik to vaildate password length and character criteria.
+My goal for this project is to continue learn how to write in React to add more functions, such as the ability to keep track of previously completed tasks.
 
 ## License Information
 MIT
